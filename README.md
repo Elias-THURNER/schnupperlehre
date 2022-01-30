@@ -1,0 +1,2 @@
+# schnupperlehre
+mindmap schnupperlehre
